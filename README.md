@@ -25,7 +25,8 @@ This project uses the YOLOv8 model for real-time object detection with an option
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git ```bash
+git clone https://github.com/yourusername/your-repo.git
+```
 
 2. Install the required dependencies using pip install -r requirments.txt
 
