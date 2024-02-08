@@ -1,5 +1,8 @@
 # security_camera_using_yolo_V8
+------
 ## In This project im using SOTA Yolo V8 to use it as a Security camera detecting people if they appear in the cam and sending an E-mail for a certain recipient 
+------
+
 
 
 ## Video Explaining the whole project in arabic
